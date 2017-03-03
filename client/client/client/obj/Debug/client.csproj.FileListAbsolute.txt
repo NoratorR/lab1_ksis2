@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\bin\Debug\client.exe.config
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\bin\Debug\client.exe
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\bin\Debug\client.pdb
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\obj\Debug\client.Form1.resources
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\obj\Debug\client.exe
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\client\client\client\obj\Debug\client.pdb

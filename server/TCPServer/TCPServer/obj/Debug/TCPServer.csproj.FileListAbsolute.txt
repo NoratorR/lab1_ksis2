@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\bin\Debug\TCPServer.exe.config
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\obj\Debug\TCPServer.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\obj\Debug\TCPServer.Form1.resources
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\obj\Debug\TCPServer.Properties.Resources.resources
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\obj\Debug\TCPServer.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\server\TCPServer\TCPServer\obj\Debug\TCPServer.pdb

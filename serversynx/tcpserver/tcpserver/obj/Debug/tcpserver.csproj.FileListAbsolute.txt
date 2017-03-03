@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\serversynx\tcpserver\tcpserver\bin\Debug\tcpserver.exe.config
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\serversynx\tcpserver\tcpserver\obj\Debug\tcpserver.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\serversynx\tcpserver\tcpserver\bin\Debug\tcpserver.exe
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\serversynx\tcpserver\tcpserver\bin\Debug\tcpserver.pdb
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\serversynx\tcpserver\tcpserver\obj\Debug\tcpserver.exe
+C:\Users\admin\Desktop\уник\2_курс\2_сем\лабы\ксис\02\serversynx\tcpserver\tcpserver\obj\Debug\tcpserver.pdb
